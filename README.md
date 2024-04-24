@@ -6,6 +6,10 @@ Before going through the following parts, make sure your Docker is running since
 
 ## Screenshot
 
+### Metric
+![](image/metric-screenshot.png)
+
+### Test
 ![](image/test-screenshot1.png)
 ![](image/test-screenshot2.png)
 
